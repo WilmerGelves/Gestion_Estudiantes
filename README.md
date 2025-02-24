@@ -13,7 +13,7 @@
 _Se debe llevar la clonación del repositorio mediante el siguiente comando(Asegurese de clonar el repositorio en una carpeta específica)._
 
 ```
-  git clone + url del repositorio
+  git clone + [url del repositorio](https://github.com/WilmerGelves/Gestion_Estudiantes.git)
 ```
 
 ### Ejecutar en consola
